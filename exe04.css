@@ -1,0 +1,13 @@
+#cartao {
+    width: 300px;
+    margin: 20px auto;
+    padding: 25px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 10px green;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}

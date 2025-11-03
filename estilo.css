@@ -1,0 +1,17 @@
+.caixa {
+    background: lightblue;
+    width: 300px;
+    border: 20px solid red;
+}
+
+.sem {
+    padding: 0;
+}
+
+.com_padding {
+    padding: 15px;
+}
+
+.com_margin {
+    margin: 60px;
+}
